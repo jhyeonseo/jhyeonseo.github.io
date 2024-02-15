@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at Yonsei University [Machine Learning Lab](https://ml.yonsei.ac.kr/), advised by [Kibok Lee](https://sites.google.com/site/kibok90).  
+I am a Ph.D. student at [Yonsei University Machine Learning Lab](https://ml.yonsei.ac.kr/), advised by [Kibok Lee](https://sites.google.com/site/kibok90).  
 My research interests lie in machine learning and computer vision, with primary focus on **open-world learning** based on **continual lifelong learning and few-shot learning**. 
 Recently, I am interested in exploring this topic further with multi-modal data.  
   
