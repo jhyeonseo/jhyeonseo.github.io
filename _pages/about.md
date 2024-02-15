@@ -59,4 +59,4 @@ Konkuk University
   
 🎖 Honors and Awards  
 ------
-Academic Scholarship, Konkuk University&nbsp;&nbsp;&nbsp;<span style="font-size:80%">Feb 2022  </span>  
+Academic Scholarship, Konkuk University&nbsp;&nbsp;&nbsp;<span style="font-size:80%">Feb 2023  </span>  
