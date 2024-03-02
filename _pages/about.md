@@ -11,7 +11,7 @@ I am a Ph.D. student at [Yonsei University Machine Learning Lab](https://ml.yons
 My research interests lie in machine learning and computer vision, with primary focus on **open-world learning** based on **continual lifelong learning and out-of-distribution detection**. 
 Recently, I am interested in exploring this topic further with multi-modal data.  
   
-Contact: jhyeonseo715@yonsei.ac.kr  
+Contact: [jhyeonseo715@yonsei.ac.kr](jhyeonseo715@yonsei.ac.kr)  
 More info: [CV](https://jhyeonseo.github.io/files/CV_Hyeonseo_Jang.pdf)  
   
 💡 Research Topics
