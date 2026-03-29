@@ -16,23 +16,23 @@ More info: [CV](https://jhyeonseo.github.io/files/CV_Hyeonseo_Jang.pdf)
   
 💼 Employment
 ------
-**KRAFTON**  
+**KRAFTON** <span style="font-size:85%;font-weight:normal">(Seoul, Republic of Korea)</span>  
 Research Intern, User Modeling AI Team  
 <span style="font-size:80%">Jan 2026 - Present  </span>  
   
 📝 Publications
 ------
 **Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining**  
-**Hyeonseo Jang**, Jaebyeong Jeon, Joong-Won Hwang, Kibok Lee  
-*CVPR*, 2026. \[coming soon\]  
+<span style="font-size:85%"><b><u>Hyeonseo Jang</u></b>, Jaebyeong Jeon, Joong-Won Hwang, Kibok Lee  </span>  
+<span style="font-size:85%">*CVPR*, 2026. \[coming soon\]  </span>  
   
 **Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting**  
-**Hyeonseo Jang**, Hyuk Kwon, Kibok Lee  
-*CVPR*, 2026. \[coming soon\]  
+<span style="font-size:85%"><b><u>Hyeonseo Jang</u></b>, Hyuk Kwon, Kibok Lee  </span>  
+<span style="font-size:85%">*CVPR*, 2026. \[coming soon\]  </span>  
   
 **Soft Task-Aware Routing of Experts for Equivariant Representation Learning**  
-Jaebyeong Jeon, **Hyeonseo Jang**, Jy-yong Sohn, Kibok Lee  
-*NeurIPS*, 2025. \[[paper](https://arxiv.org/abs/2510.27222)\]  
+<span style="font-size:85%">Jaebyeong Jeon, <b><u>Hyeonseo Jang</u></b>, Jy-yong Sohn, Kibok Lee  </span>  
+<span style="font-size:85%">*NeurIPS*, 2025. \[[arXiv:2510.27222](https://arxiv.org/abs/2510.27222)\]  </span>  
   
 📖 Education
 ------
