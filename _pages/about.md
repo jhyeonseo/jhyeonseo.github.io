@@ -48,9 +48,9 @@ Konkuk University
   
 💻 Professional Service
 ------
-<span style="font-size:110%">**Conference Reviewer**  </span>  
-ML: NeurIPS  
-CV: CVPR, ECCV  
+**Conference Reviewer**  
+<span style="font-size:85%">ML: NeurIPS  </span>  
+<span style="font-size:85%">CV: CVPR, ECCV  </span>  
   
 🎖 Honors and Awards  
 ------
