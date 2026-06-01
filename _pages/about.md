@@ -10,16 +10,17 @@ redirect_from:
 <style>
 /* ===== About page: CV-like section spacing & clearer dividers ===== */
 .page__content h2 {
-  /* values tuned against the CV's *rendered* gap ratios (content:title:bar:content).
-     web line-height 1.5 adds leading, so the margins are smaller than the CV's raw
-     16pt/8pt yet reproduce the same visual ratio ≈ 1.17 : 0.34 : 1.00 */
-  margin-top: 0.52em;                /* content → heading gap */
-  margin-bottom: 0.58em;             /* bar → content gap */
-  padding-bottom: 0.05em;            /* heading → bar: hugs the heading like the CV rule */
-  border-bottom: 1px solid #3c587e;  /* CV accent slate-blue; 1px = thinnest reliable web rule (CV's 0.4pt ≈ sub-pixel) */
+  /* gaps tuned against the CV's *rendered* gap ratios (content:title:bar:content
+     ≈ 1.17 : 0.34 : 1.00). web line-height 1.5 adds leading, so these margins are
+     re-derived (not the CV's raw 16/8pt) to reproduce that ratio — scaled up a bit
+     here for more breathing room while preserving the ratio. */
+  margin-top: 0.86em;                /* content → heading gap */
+  margin-bottom: 0.88em;             /* bar → content gap */
+  padding-bottom: 0.12em;            /* heading → bar */
+  border-bottom: 1px solid #7a8288;  /* divider (reverted to gray) */
 }
 .page__content p {
-  margin-bottom: 0.35em;             /* between entries (CV \addvspace ≈ 3–4pt) */
+  margin-bottom: 0.50em;             /* between entries */
 }
 </style>
 
