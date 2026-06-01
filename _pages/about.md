@@ -7,6 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+/* ===== About page: CV-like section spacing & clearer dividers ===== */
+.page__content h2 {
+  /* values tuned against the CV's *rendered* gap ratios (content:title:bar:content).
+     web line-height 1.5 adds leading, so the margins are smaller than the CV's raw
+     16pt/8pt yet reproduce the same visual ratio ≈ 1.17 : 0.34 : 1.00 */
+  margin-top: 0.52em;                /* content → heading gap */
+  margin-bottom: 0.58em;             /* bar → content gap */
+  padding-bottom: 0.05em;            /* heading → bar: hugs the heading like the CV rule */
+  border-bottom: 1px solid #3c587e;  /* CV accent slate-blue; 1px = thinnest reliable web rule (CV's 0.4pt ≈ sub-pixel) */
+}
+.page__content p {
+  margin-bottom: 0.35em;             /* between entries (CV \addvspace ≈ 3–4pt) */
+}
+</style>
+
 I am a Ph.D. student at [Yonsei University Machine Learning Lab](https://ml.yonsei.ac.kr/), under the guidance of Prof. [Kibok Lee](https://sites.google.com/site/kibok90). My research focuses on adapting vision–language models to real-world downstream tasks, with an emphasis on **transfer learning**, **representation learning**, and **model reliability**. Recently, I have been extending my work to the video domain.
 
 Contact: <jhyeonseo715@yonsei.ac.kr>  
