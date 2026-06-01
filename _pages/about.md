@@ -9,26 +9,28 @@ redirect_from:
 ---
 I am a Ph.D. student at [Yonsei University Machine Learning Lab](https://ml.yonsei.ac.kr/), under the guidance of Prof. [Kibok Lee](https://sites.google.com/site/kibok90). My research focuses on adapting vision–language models to real-world downstream tasks, with an emphasis on **transfer learning**, **representation learning**, and **model reliability**. Recently, I have been extending my work to the video domain.
 
-Beyond my research, I am passionate about developing AI technologies that can translate into meaningful industrial impact. I envision a future where AI systems drive innovation across industries and deliver practical value in real-world applications.  
-  
 Contact: <jhyeonseo715@yonsei.ac.kr>  
 More info: [CV](https://jhyeonseo.github.io/files/CV_Hyeonseo_Jang.pdf)  
   
 💼 Employment
 ------
 **KRAFTON** <span style="font-size:85%;font-weight:normal">(Seoul, Republic of Korea)</span>  
-Research Intern, User Modeling AI Team  
+Research Intern, AI Research Center  
 <span style="font-size:80%">Jan 2026 - Present  </span>  
   
 📝 Publications
 ------
+**AgentVidBench: A Multi-Hop Video Question Answering Benchmark for Evaluating MLLM Agents**  
+<span style="font-size:85%">Seoyeon An\*, <b><u>Hyeonseo Jang</u></b>\*, Minsu Kim\*, Chanho Lee, Younghan Park, Kangwook Lee (\*equal contribution)  </span>  
+<span style="font-size:85%">*ICMLW*, 2026.  </span>  
+  
 **Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining**  
 <span style="font-size:85%"><b><u>Hyeonseo Jang</u></b>, Jaebyeong Jeon, Joong-Won Hwang, Kibok Lee  </span>  
-<span style="font-size:85%">*CVPR*, 2026. \[coming soon\]  </span>  
+<span style="font-size:85%">*CVPR*, 2026. \[[arXiv:2604.27715](https://arxiv.org/abs/2604.27715)\]  </span>  
   
 **Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting**  
 <span style="font-size:85%"><b><u>Hyeonseo Jang</u></b>, Hyuk Kwon, Kibok Lee  </span>  
-<span style="font-size:85%">*CVPR*, 2026. \[coming soon\]  </span>  
+<span style="font-size:85%">*CVPR*, 2026. \[[arXiv:2604.18075](https://arxiv.org/abs/2604.18075)\]  </span>  
   
 **Soft Task-Aware Routing of Experts for Equivariant Representation Learning**  
 <span style="font-size:85%">Jaebyeong Jeon, <b><u>Hyeonseo Jang</u></b>, Jy-yong Sohn, Kibok Lee  </span>  
@@ -49,7 +51,7 @@ Konkuk University
 💻 Professional Service
 ------
 **Conference Reviewer**  
-<span style="font-size:85%">ML: NeurIPS  </span>  
+<span style="font-size:85%">ML: NeurIPS, ICMLW  </span>  
 <span style="font-size:85%">CV: CVPR, ECCV  </span>  
   
 🎖 Honors and Awards  
